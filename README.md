@@ -8,5 +8,5 @@
 
   1. Install Web3 using `npm install @alch/alchemy-web3`
   2. Create mint-nft.js file
-  3. Get your smart contract.
+  3. Get your smart contract ABI.
   4. Configure metadata for nft in nft-metadata.json
