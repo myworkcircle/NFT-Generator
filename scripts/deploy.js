@@ -1,3 +1,5 @@
+// deploy contract to etherium block chain
+
 async function main() {
     const MyNFT = await ethers.getContractFactory("MyNFT")
   
